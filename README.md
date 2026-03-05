@@ -48,6 +48,15 @@ src="https://files.catbox.moe/xd8cvb.jpg">
 </p>
 
 <p align="center">
+    <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
+    <br>
+    <a href="https://xploitdevkevin-pairing-site.onrender.com" target="_blank">
+        <img alt="PAIR2" src="https://img.shields.io/badge/Pair2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkgreen&color=darkgreen"/>
+    </a>
+</p>
+
+
+<p align="center">
     <strong>4. JOIN WHATSAPP GROUP</strong>
     <br>
     <a href="https://chat.whatsapp.com/JozJ699akqWClXSRab93OW?mode=gi_t" target="_blank">
@@ -58,7 +67,7 @@ src="https://files.catbox.moe/xd8cvb.jpg">
 <p align="center">
     <strong>5. JOIN TELEGRAM SUPPORT GROUP</strong>
     <br>
-    <a href="https://t.me/+ilRbENNCnN8wOWNk" target="_blank">
+    <a href="https://t.me/VinicSupportDsfCrewDevs" target="_blank">
         <img alt="Join group" src="https://img.shields.io/badge/Join group-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
