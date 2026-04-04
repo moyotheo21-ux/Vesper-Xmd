@@ -12,7 +12,7 @@
         "multi-device",
         "Jexploit-dev",
         "Kevin-base1",
-        "Kevin dev"
+        "Kevin-dev"
     ],
     "author": "Kevin",
     "license": "MIT",
@@ -22,7 +22,7 @@
         "@hapi/boom": "^10.0.0",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@vitalets/google-translate-api": "^9.2.1",
-         "@whiskeysockets/baileys":"npm:gifted-baileys@2.5.8",
+         "@whiskeysockets/baileys":"npm:riftcore",
         "any-base": "^1.1.0",
         "awesome-phonenumber": "^2.70.0",
         "chalk": "^4.1.2",
